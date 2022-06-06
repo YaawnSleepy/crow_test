@@ -1,8 +1,7 @@
-{
-    "0": {
+[
+    {
         "itemId": 0,
         "name": "ItemDummyName",
         "description": "ItemDummyDescription"
-    },
-    "wtfisthis": "a new string to translate"
-}
+    }
+]
