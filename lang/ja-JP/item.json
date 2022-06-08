@@ -1,17 +1,578 @@
-[
-    {
-        "itemId": 0,
-        "name": "ItemDummyName",
-        "description": "ItemDummyDescription jaja"
+{
+    "0": {
+        "name": "t",
+        "description": "t"
     },
-    {
-        "itemId": 1,
-        "name": "AnoTHterName",
-        "description": "ANoatjer DEscipriptno"
+    "1": {
+        "name": "Oolong Tea",
+        "description": "An oxidized Chinese tea.\nDifferent flavours and fragrances can be brought out depending on the degree of oxidation."
     },
-    {
-        "itemId": 3,
-        "name": "Nice",
-        "description": "Fol "
+    "2": {
+        "name": "Boba Tea",
+        "description": "A popular drink with a bunch of tapioca balls at the bottom. The chewy tapioca balls are made from the root of the cassava plant."
+    },
+    "3": {
+        "name": "Ginger Tea",
+        "description": "Hot water with grated ginger in it. It warms the body and prevenets colds. It tastes delicious with honey mixed in."
+    },
+    "4": {
+        "name": "Cleopatra's Pearl Cocktail",
+        "description": "A drink based on the story of Cleopatra dissolving one of her pearl earrings in a cup of vinegar. Said to be good for beauty."
+    },
+    "5": {
+        "name": "t",
+        "description": "t"
+    },
+    "6": {
+        "name": "t",
+        "description": "t"
+    },
+    "7": {
+        "name": "A basic seasoning that's primarily made up of sucrose. Be careful not to consume too much of it.",
+        "description": "t"
+    },
+    "8": {
+        "name": "t",
+        "description": "t"
+    },
+    "9": {
+        "name": "Astro Cake",
+        "description": "A freeze-dried slice of cake sold to the public as space food. It's both healthy and vegetarian-friendly."
+    },
+    "10": {
+        "name": "t",
+        "description": "t"
+    },
+    "11": {
+        "name": "Maple Fudge",
+        "description": "A British candy that;s made by boiling down sugar, condensed milk, and butter, and then adding maple syrup. It's really sweet."
+    },
+    "12": {
+        "name": "t",
+        "description": "t"
+    },
+    "13": {
+        "name": "Bunny Apples",
+        "description": "Apples cut into bunny shapes. Often used as bait for certain animals and insects."
+    },
+    "14": {
+        "name": "t",
+        "description": "t"
+    },
+    "15": {
+        "name": "t",
+        "description": "t"
+    },
+    "16": {
+        "name": "Candy Cigarette",
+        "description": "A sweet cigarette-shaped candy. It's popular among kids who want to imitate adults."
+    },
+    "17": {
+        "name": "t",
+        "description": "t"
+    },
+    "18": {
+        "name": "t",
+        "description": "t"
+    },
+    "19": {
+        "name": "t",
+        "description": "t"
+    },
+    "20": {
+        "name": "t",
+        "description": "t"
+    },
+    "21": {
+        "name": "t",
+        "description": "t"
+    },
+    "22": {
+        "name": "t",
+        "description": "t"
+    },
+    "23": {
+        "name": "Workout Clothes",
+        "description": "Easy-to-move workout clothes that wick away sweat. With these, you can work out all days and still be comfortable."
+    },
+    "24": {
+        "name": "t",
+        "description": "t"
+    },
+    "25": {
+        "name": "t",
+        "description": "t"
+    },
+    "26": {
+        "name": "Hand-Knit Sweater",
+        "description": "A swewater that's been knitted with love in every stitch. Those who wear it can feel themselves enveloped in the power of love and will stay warm through even the coldest winter."
+    },
+    "27": {
+        "name": "t",
+        "description": "t"
+    },
+    "28": {
+        "name": "t",
+        "description": "t"
+    },
+    "29": {
+        "name": "t",
+        "description": "t"
+    },
+    "30": {
+        "name": "Beret",
+        "description": "A size-adjustable beret. It's a pretty popular hat that lets you feel trendy and somewhat artistic."
+    },
+    "31": {
+        "name": "t",
+        "description": "t"
+    },
+    "32": {
+        "name": "Cufflinks",
+        "description": "An accessory that is attached to the cuffs of a shirt. The black onyx design makse it look good on both men and women."
+    },
+    "33": {
+        "name": "t",
+        "description": "t"
+    },
+    "34": {
+        "name": "t",
+        "description": "t"
+    },
+    "35": {
+        "name": "t",
+        "description": "t"
+    },
+    "36": {
+        "name": "t",
+        "description": "t"
+    },
+    "37": {
+        "name": "t",
+        "description": "t"
+    },
+    "38": {
+        "name": "t",
+        "description": "t"
+    },
+    "39": {
+        "name": "t",
+        "description": "t"
+    },
+    "40": {
+        "name": "t",
+        "description": "t"
+    },
+    "41": {
+        "name": "Fun Book of Animals",
+        "description": "An animal picture book for preschool kids. For some reason, bears are not featured in it."
+    },
+    "42": {
+        "name": "t",
+        "description": "t"
+    },
+    "43": {
+        "name": "t",
+        "description": "t"
+    },
+    "44": {
+        "name": "t",
+        "description": "t"
+    },
+    "45": {
+        "name": "t",
+        "description": "t"
+    },
+    "46": {
+        "name": "t",
+        "description": "t"
+    },
+    "47": {
+        "name": "t",
+        "description": "t"
+    },
+    "48": {
+        "name": "t",
+        "description": "t"
+    },
+    "49": {
+        "name": "t",
+        "description": "t"
+    },
+    "50": {
+        "name": "t",
+        "description": "t"
+    },
+    "51": {
+        "name": "Japanese Doll Wig",
+        "description": "A glamorous black wig that has hair like that of a Japanese doll. Even if you cut it, it grows back instantaneouly."
+    },
+    "52": {
+        "name": "Photoshop Software",
+        "description": "A photo editing software that lets you retouch photos. Turn a plain, freckled face into something flashy!"
+    },
+    "53": {
+        "name": "Sewing Kit",
+        "description": "A basic sewing kit that has a needle and several colours of thread. With this, you'll always be prepared in case a button comes off."
+    },
+    "54": {
+        "name": "Flame Thunder",
+        "description": "A broom that lets mages fly at high speed when they sit on it. It's a little bent, but it can also be used for cleaning."
+    },
+    "55": {
+        "name": "t",
+        "description": "t"
+    },
+    "56": {
+        "name": "t",
+        "description": "t"
+    },
+    "57": {
+        "name": "Fashionable Glasses",
+        "description": "A fashion accessory that appears to be a pair of glasses, but does not actually correct its wearer's vision."
+    },
+    "58": {
+        "name": "t",
+        "description": "t"
+    },
+    "59": {
+        "name": "Plastic Moon Buggy Model",
+        "description": "A plastic model of an actual buggy used by astronauts on the moon. It looks plain, but it's actually filled with burning passion."
+    },
+    "60": {
+        "name": "I'm a Picture Book Artist!",
+        "description": "An electronic device that's equi[[ed with an AI to produce a new picture book every time it's turned on. Great for kids who love hearing bed-time stories."
+    },
+    "61": {
+        "name": "Hand Grips",
+        "description": "A device for grip training. The strength of a punch is determined by grip strength, weight, and speed combined."
+    },
+    "62": {
+        "name": "t",
+        "description": "t"
+    },
+    "63": {
+        "name": "Metronome",
+        "description": "A musical device that is used to match the tempo when playing an instrument. A basic pendulum type."
+    },
+    "64": {
+        "name": "t",
+        "description": "t"
+    },
+    "65": {
+        "name": "t",
+        "description": "t"
+    },
+    "66": {
+        "name": "Bird Food",
+        "description": "A carefully selected collection of fresh seeds for domestic pigeons. Wild pigeons can't appreciate the increased quality, so it would be a waste to give them these."
+    },
+    "67": {
+        "name": "t",
+        "description": "t"
+    },
+    "68": {
+        "name": "t",
+        "description": "t"
+    },
+    "69": {
+        "name": "t",
+        "description": "t"
+    },
+    "70": {
+        "name": "t",
+        "description": "t"
+    },
+    "71": {
+        "name": "t",
+        "description": "t"
+    },
+    "72": {
+        "name": "t",
+        "description": "t"
+    },
+    "73": {
+        "name": "3-Hit KO Sandbag",
+        "description": "Regardless of whether it's hit by a kick from a sickly child or a punch from a superhuman adult, this punching bag will always break on the third hit."
+    },
+    "74": {
+        "name": "t",
+        "description": "t"
+    },
+    "75": {
+        "name": "Steel Glasses Case",
+        "description": "A sturdy glasses case that won;t break, even if it's stomped on by an Exisal. No matter what abuse it takes, the glasses inside will be kept safe."
+    },
+    "76": {
+        "name": "t",
+        "description": "t"
+    },
+    "77": {
+        "name": "t",
+        "description": "t"
+    },
+    "78": {
+        "name": "Everywhere Parasol",
+        "description": "A parasol with a stand so it can be used anywhere. Set it up poolside to feel fancy! You can give it away, but something good might happen if you keep it."
+    },
+    "79": {
+        "name": "Three-Layered Lunch Box",
+        "description": "A family-size lunch box that can fit a variety of side dishes. Perfect for a picnic."
+    },
+    "80": {
+        "name": "Aluminum Water Bottle",
+        "description": "A round, retro water bottle. Having it slung over your shoulder makes you want to go on an adventure."
+    },
+    "81": {
+        "name": "Jelly Balls",
+        "description": "Squishy, colourful beads that swell to marble size when wet. Good for both decoration and gardening. Lining up 4 of the same color won't make them vanish."
+    },
+    "82": {
+        "name": "Upbeat Humidifier",
+        "description": "It humidifies your room based on the amount of tears you have shed. Great for gloomy people, but to cheerful people, it's just a paperwight."
+    },
+    "83": {
+        "name": "Earnest Compass",
+        "description": "A compass that ignores the North Pole and South Pole, and instead points to the owner's loved one. A must-have for stalkers."
+    },
+    "84": {
+        "name": "t",
+        "description": "t"
+    },
+    "85": {
+        "name": "Weathercock of Barcelos",
+        "description": "A weathercock that imitates the Portuguese \"Rooster of Barcelos,\" A symbol of the truth, this is a popular souvenir from Portugal."
+    },
+    "86": {
+        "name": "Pillow of Admiration",
+        "description": "A pillow that helps you sleep well and gives you wonderful dreams. However, the dreams will show and entire lifetime making you feel instensely empty after you wake up."
+    },
+    "87": {
+        "name": "t",
+        "description": "t"
+    },
+    "88": {
+        "name": "t",
+        "description": "t"
+    },
+    "89": {
+        "name": "t",
+        "description": "t"
+    },
+    "90": {
+        "name": "t",
+        "description": "t"
+    },
+    "91": {
+        "name": "t",
+        "description": "t"
+    },
+    "92": {
+        "name": "t",
+        "description": "t"
+    },
+    "93": {
+        "name": "t",
+        "description": "t"
+    },
+    "94": {
+        "name": "Helping Yacchi",
+        "description": "A robot mascot that looks like a killer whale. It can sense when its owner is distressed, and offers to research a solution."
+    },
+    "95": {
+        "name": "Home Planet",
+        "description": "A mini planetarium machine that can project the cosmos onto your bedroom walls when it's time for bed. Comes with narration voiced by a popular voice actor."
+    },
+    "96": {
+        "name": "t",
+        "description": "t"
+    },
+    "97": {
+        "name": "Sparkly Sheet",
+        "description": "A cleaning sheet that gets rid of any mess in the kitchen sink or even dirt on the faucet. Can also be used to clean robots."
+    },
+    "98": {
+        "name": "Hammock",
+        "description": "Bedding created by hanging a net between two poles or trees. Lounging in one of these is something everyone has dreamed of at least once."
+    },
+    "99": {
+        "name": "Cleansing Air Freshener",
+        "description": "A spray air freshener. It has holy water mixed in, and is said to repel ghosts and paranormal entities."
+    },
+    "100": {
+        "name": "t",
+        "description": "t"
+    },
+    "101": {
+        "name": "t",
+        "description": "t"
+    },
+    "102": {
+        "name": "Rock-Paper-Scissors Cards",
+        "description": "A set of cards containing four rocks, four papers, and four scissors. If you bet your life on this game, it can be a thrilling psychological battle."
+    },
+    "103": {
+        "name": "Perfect Laser Gun",
+        "description": "A replica of a laser gun used by upstanding citizens to punish rebe;;ious or unhappy people. When carrying this around, be sure to watch your coefficient."
+    },
+    "104": {
+        "name": "Someone's Student ID",
+        "description": "A replica of a student ID from some academy. There are as many different designs of ID as there are talented students."
+    },
+    "105": {
+        "name": "Bear Ears",
+        "description": "A headband with Monokuma ears. When worn, it picks up your brainwaves and the ears wiggle according to your emotions."
+    },
+    "106": {
+        "name": "t",
+        "description": "t"
+    },
+    "107": {
+        "name": "t",
+        "description": "t"
+    },
+    "108": {
+        "name": "Rice Toy Blocks",
+        "description": "Toy blocks made out of rice, so they're safe for babies to put in their mouths. But they'll go bad if they aren't eaten right away."
+    },
+    "109": {
+        "name": "t",
+        "description": "t"
+    },
+    "110": {
+        "name": "t",
+        "description": "t"
+    },
+    "111": {
+        "name": "t",
+        "description": "t"
+    },
+    "112": {
+        "name": "t",
+        "description": "t"
+    },
+    "113": {
+        "name": "t",
+        "description": "t"
+    },
+    "114": {
+        "name": "t",
+        "description": "t"
+    },
+    "115": {
+        "name": "t",
+        "description": "t"
+    },
+    "116": {
+        "name": "t",
+        "description": "t"
+    },
+    "117": {
+        "name": "t",
+        "description": "t"
+    },
+    "118": {
+        "name": "t",
+        "description": "t"
+    },
+    "119": {
+        "name": "t",
+        "description": "t"
+    },
+    "120": {
+        "name": "t",
+        "description": "t"
+    },
+    "121": {
+        "name": "t",
+        "description": "t"
+    },
+    "122": {
+        "name": "t",
+        "description": "t"
+    },
+    "123": {
+        "name": "t",
+        "description": "t"
+    },
+    "124": {
+        "name": "t",
+        "description": "t"
+    },
+    "125": {
+        "name": "t",
+        "description": "t"
+    },
+    "126": {
+        "name": "t",
+        "description": "t"
+    },
+    "127": {
+        "name": "t",
+        "description": "t"
+    },
+    "128": {
+        "name": "t",
+        "description": "t"
+    },
+    "129": {
+        "name": "t",
+        "description": "t"
+    },
+    "130": {
+        "name": "t",
+        "description": "t"
+    },
+    "131": {
+        "name": "t",
+        "description": "t"
+    },
+    "132": {
+        "name": "t",
+        "description": "t"
+    },
+    "133": {
+        "name": "Ultimate Academy for Gifted Juveniles Badge",
+        "description": "Proof that you've cleared the Prologue. It's a badge of the Ultimate Academy insignia. Apparently, there are only 16 of these in thw world."
+    },
+    "134": {
+        "name": "t",
+        "description": "t"
+    },
+    "135": {
+        "name": "t",
+        "description": "t"
+    },
+    "136": {
+        "name": "t",
+        "description": "t"
+    },
+    "137": {
+        "name": "t",
+        "description": "t"
+    },
+    "138": {
+        "name": "t",
+        "description": "t"
+    },
+    "139": {
+        "name": "t",
+        "description": "t"
+    },
+    "140": {
+        "name": "t",
+        "description": "t"
+    },
+    "141": {
+        "name": "t",
+        "description": "t"
+    },
+    "142": {
+        "name": "t",
+        "description": "t"
+    },
+    "143": {
+        "name": "t",
+        "description": "t"
     }
-]
+}
