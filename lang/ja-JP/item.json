@@ -5,7 +5,7 @@
     },
     {
         "name": "Oolong Tea",
-        "description": "An oxidized :Chinese tea.\nDifferent flavours and :fragrances can be brought out depending on the degree of oxidation. :count_delimited song|:count_delimited songs"
+        "description": "An oxidized :Chinese tea.\nDifferent flavours and :fragrances can be brought out depending on the degree of oxidation. %count_delimited%"
     },
     {
         "name": "Boba Tea",
